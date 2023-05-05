@@ -23,7 +23,7 @@ Neste desafio foi criado um jogo chamado Biscoito da Sorte, no qual o usuário, 
 
 ## Os arquivos criados para o desafio:
 
-Além da pasta **imagens**,o projeto possui os seguintes arquivos:
+Além da pasta **imagens**, o projeto possui os seguintes arquivos:
 
 - index.html
 - style.css
